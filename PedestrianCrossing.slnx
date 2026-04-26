@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PedestrianCrossing.Models/PedestrianCrossing.Models.csproj" />
+  <Project Path="PedestrianCrossing/PedestrianCrossing.csproj">
+    <BuildDependency Project="PedestrianCrossing.Models/PedestrianCrossing.Models.csproj" />
+  </Project>
+</Solution>
